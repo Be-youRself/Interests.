@@ -1,0 +1,126 @@
+﻿  nim_cpp_data_sync.cpp
+c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): error C2144: 语法错误:“int”的前面应有“;”
+c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(67): error C2628: “_W64”后面接“unsigned”是非法的(是否忘记了“;”?)
+c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(67): error C2628: “_W64”后面接“int”是非法的(是否忘记了“;”?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\vcruntime.h(186): error C2378: “intptr_t”: 重定义；符号不能由 typedef 重载
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(60): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(60): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\malloc.h(60): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\cstdint(25): error C2874: using 声明导致“intptr_t”的多次声明
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\cstdint(45): error C2874: using 声明导致“intptr_t”的多次声明
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(121): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(121): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(121): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(124): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(129): error C2146: 语法错误: 缺少“)”(在标识符“_FindHandle”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(161): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(161): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(161): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(164): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(168): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(168): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(168): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(171): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(175): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(175): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(175): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(178): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(183): error C2146: 语法错误: 缺少“)”(在标识符“_FindHandle”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(190): error C2146: 语法错误: 缺少“)”(在标识符“_FindHandle”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wio.h(197): error C2146: 语法错误: 缺少“)”(在标识符“_FindHandle”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(20): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(20): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(25): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(25): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(30): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(30): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(30): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(35): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(35): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(38): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(40): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(40): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(40): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(45): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(45): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(45): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(49): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(51): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(51): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(56): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(56): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(56): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(60): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(62): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(62): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(62): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(66): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(68): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(68): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(68): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(72): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(74): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(74): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(74): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(78): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(80): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(80): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(80): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(84): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(86): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(86): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(86): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(90): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(92): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(92): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(92): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(97): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(99): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(99): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(99): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(103): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(105): error C2143: 语法错误: 缺少“;”(在“__cdecl”的前面)
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(105): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(105): error C2370: “intptr_t”: 重定义；不同的存储类
+  c:\users\captainshen\desktop\projects\ppclient\nim_c_sdk\util\nim_base_types.h(58): note: 参见“intptr_t”的声明
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wprocess.h(110): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  json_writer.cpp
+c:\users\captainshen\desktop\projects\ppclient\lib_json\json_writer.cpp(7): fatal error C1083: 无法打开包括文件: “json/writer.h”: No such file or directory
+  json_value.cpp
+c:\users\captainshen\desktop\projects\ppclient\lib_json\json_value.cpp(7): fatal error C1083: 无法打开包括文件: “json/assertions.h”: No such file or directory
+  json_reader.cpp
+c:\users\captainshen\desktop\projects\ppclient\lib_json\json_reader.cpp(7): fatal error C1083: 无法打开包括文件: “json/assertions.h”: No such file or directory
+  正在生成代码...
